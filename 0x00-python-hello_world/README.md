@@ -1,7 +1,11 @@
-Write a function in C that checks if a singly linked list has a cycle in it.
+Write a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
 
 
 
-Prototype: int check_cycle(listint_t *list);
+Use the function write from the sys module
 
-Return: 0 if there is no cycle, 1 if there is a cycle
+You are not allowed to use print
+
+Your script should print to stderr
+
+Your script should exit with the status code 1
