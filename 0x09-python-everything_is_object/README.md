@@ -1,13 +1,13 @@
->>> a
+Assuming we are using a CPython implementation of Python3 with default options/configuration (For answers with numbers use integers, don’t spell out the word):
 
-[1, 2, 3]
 
->>> id (a)
 
-139926795932424
+How many string objects are created by the execution of the first line of the script? (106-line1.txt)
 
->>> a += [4]
+How many string objects are created by the execution of the second line of the script (106-line2.txt)
 
->>> id(a)
+After the execution of line 3, is the string object pointed by a deleted? Answer with Yes or No (106-line3.txt)
 
-Will the last line of this script print 139926795932424? Answer with Yes or No.
+After the execution of line 4, is the string object pointed by b deleted? Answer with Yes or No (106-line4.txt)
+
+How many string objects are created by the execution of the last line of the script (106-line5.txt)
